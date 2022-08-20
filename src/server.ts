@@ -35,7 +35,7 @@ import {filterImageFromURL, deleteLocalFiles} from './util/util';
     })
     .catch((err) => {
       console.log(err);
-      return res.status(404).send('Image not found!');
+      return res.status(422).send("Couldn't process the request!");
     });
 
     });
