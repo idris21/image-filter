@@ -49,4 +49,7 @@ Add your own domain name and have it point to the running services (try adding a
 
 ### Endpoint URL
 
-http://image-filter-udacity-idris.us-east-1.elasticbeanstalk.com/
+Example:
+
+* http://image-filter-udacity-idris.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://images.theconversation.com/files/443350/original/file-20220131-15-1ndq1m6.jpg
+
